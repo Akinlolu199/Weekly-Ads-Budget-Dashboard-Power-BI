@@ -95,7 +95,6 @@ This project is for portfolio and educational purposes. Data has been anonymised
 
 **Akinlolu Oyetakin**  
 Data and Business Intelligence Analyst  
-[LinkedIn](www.linkedin.com/in/akinlolu-oyetakin-50a495245) 
 
 ---
 
