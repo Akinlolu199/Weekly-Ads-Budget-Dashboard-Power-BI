@@ -1,8 +1,6 @@
 # 📊 Ads Performance Dashboard — Power BI
 An end-to-end marketing analytics project that transforms raw, multi-platform advertising data into a clean, interactive Power BI dashboard — enabling data-driven budget allocation, campaign evaluation, and ROI optimisation across TikTok, Instagram, Google, and Facebook.
 
-![Dashboard Preview](Ads Performance Dashboard.png)
-
 ---
 
 ## 🏆 Key Results
@@ -97,7 +95,7 @@ This project is for portfolio and educational purposes. Data has been anonymised
 
 **Akinlolu Oyetakin**  
 Data and Business Intelligence Analyst  
-[LinkedIn](www.linkedin.com/in/akinlolu-oyetakin-50a495245) · [GitHub]()
+[LinkedIn](www.linkedin.com/in/akinlolu-oyetakin-50a495245) 
 
 ---
 
