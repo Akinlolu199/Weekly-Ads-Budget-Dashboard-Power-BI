@@ -18,7 +18,9 @@ An end-to-end marketing analytics project that transforms raw, multi-platform ad
 > **£2.94M net revenue generated from £1.40M in ad spend across 4 platforms and 6 campaigns.**
 
 ---
-
+##   Data set Used
+- <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Perfomance%20data%20for%20Power%20BI.xlsx" >Data set </a>
+- <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Performance%20Dashboard.png" >Dashboard </a>
 ## 🔧 What Was Built
 
 ### Data Transformation
