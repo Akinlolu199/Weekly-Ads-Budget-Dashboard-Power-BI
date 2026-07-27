@@ -20,7 +20,7 @@ An end-to-end marketing analytics project that transforms raw, multi-platform ad
 ---
 ##   Data set Used
 - <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Perfomance%20data%20for%20Power%20BI.xlsx" >Data set </a>
-- <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Performance%20Dashboard.png" >Dashboard </a>
+- <a href="<iframe title="ADDs Perfomance Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmIyMTQ2ZjYtN2RkNi00M2Y3LWFjMTItM2VhYjZhMDY0ODY0IiwidCI6IjM5ZTdjNzMwLWNmM2UtNGQ4ZC04NGNmLTdmNDM2Nzk3ODM0ZSJ9" frameborder="0" allowFullScreen="true"></iframe>" > Interactive Dashboard </a>
 - <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/ADDs%20Perfomance%20Dashboard.pbix" >Power Bi file </a>
 
 ## 🔧 What Was Built
