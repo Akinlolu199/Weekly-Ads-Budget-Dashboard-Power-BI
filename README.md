@@ -51,6 +51,9 @@ Custom DAX measures created for:
 - Campaign performance table: per-campaign spend, revenue, and ROI
 - ROI bar chart ranked by campaign name
 - Slicers for dynamic filtering: Platform, Month, CampaignName, WeekStartDate
+- 
+### Dashboard 
+Ads Performance Dashboard.png (https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Performance%20Dashboard.png)
 
 ---
 
