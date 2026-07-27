@@ -21,6 +21,8 @@ An end-to-end marketing analytics project that transforms raw, multi-platform ad
 ##   Data set Used
 - <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Perfomance%20data%20for%20Power%20BI.xlsx" >Data set </a>
 - <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Performance%20Dashboard.png" >Dashboard </a>
+- <a href="https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/ADDs%20Perfomance%20Dashboard.pbix" >Power Bi file </a>
+
 ## 🔧 What Was Built
 
 ### Data Transformation
