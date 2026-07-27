@@ -73,7 +73,7 @@ Custom DAX measures created for:
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
 | Tool | Usage |
 |---|---|
