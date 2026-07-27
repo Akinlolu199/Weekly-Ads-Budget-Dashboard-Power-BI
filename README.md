@@ -53,7 +53,7 @@ Custom DAX measures created for:
 - Slicers for dynamic filtering: Platform, Month, CampaignName, WeekStartDate
 - 
 ### Dashboard 
-Ads Performance Dashboard.png (https://github.com/Akinlolu199/Weekly-Ads-Budget-Dashboard-Power-BI/blob/main/Ads%20Performance%20Dashboard.png)
+Ads Performance Dashboard.png 
 
 ---
 
